@@ -59,7 +59,7 @@ Team Members
 
 | Name | Role         |
 |------|--------------------------------|
-| ROBERT SIMIYU| |project management |
+| ROBERT SIMIYU| |project management|
 | SHADRACK KIPLELGO | Research |
 | SALLY KIBUNGA | Personas |
 | KYLA NAUWANKAS | Requirements |
