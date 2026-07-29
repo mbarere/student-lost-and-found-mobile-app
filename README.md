@@ -57,19 +57,17 @@ Objectives
 
 Team Members
 
-| Name | Role |
-|------|------|
-| Your Name | Group Leader |
-| Member 2 | Research |
-| Member 3 | Personas |
-| Member 4 | Requirements |
-| Member 5 | Wireframes |
-| Member 6 | Wireframes |
-| Member 7 | Testing |
-| Member 8 | Documentation |
+| Name | Role         |
+|------|--------------------------------|
+| ROBERT SIMIYU| |project management |
+| SHADRACK KIPLELGO | Research |
+| SALLY KIBUNGA | Personas |
+| KYLA NAUWANKAS | Requirements |
+| JOSIAH WAHOME| Wireframes |
+| MAXWELL ADENYA| Wireframes |
+|DAMARIS| Testing |
+| ALL | Documentation |
 
 ---
 
-## Project Status
 
-🟢 Planning Phase
