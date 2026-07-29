@@ -59,14 +59,14 @@ Team Members
 
 | Name | Role         |
 |------|--------------------------------|
-| ROBERT SIMIYU| |project management|
+| ROBERT SIMIYU| |management|
 | SHADRACK KIPLELGO | Research |
 | SALLY KIBUNGA | Personas |
 | KYLA NAUWANKAS | Requirements |
 | JOSIAH WAHOME| Wireframes |
 | MAXWELL ADENYA| Wireframes |
-|DAMARIS| Testing |
-| ALL | Documentation |
+|DAMARIS| Testing &Documentation|
+
 
 ---
 
